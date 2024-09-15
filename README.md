@@ -1,4 +1,4 @@
 ### CUBO+ Technical test
 
-[video](link to video here)
-[https://github.com/RicardoSolorzano0/cuboplus_tech_test/blob/main/tech_test.js](link to the specific file of the solution in the repo)
+Video with the compilation of the application and explanation: []
+File with the solution: [https://github.com/RicardoSolorzano0/cuboplus_tech_test/blob/main/tech_test.js]
